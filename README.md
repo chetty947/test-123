@@ -1,4 +1,3 @@
-
 ```markdown
 # EC2 Instance Import and Provision Using Terraform
 
