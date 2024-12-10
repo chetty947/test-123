@@ -1,4 +1,4 @@
-Here’s a `README.md` file for your Git repository:
+
 
 ```markdown
 # EC2 Instance Import and Provision Using Terraform
@@ -115,10 +115,6 @@ After running the above commands, log in to the **destination AWS account** and 
 
 ---
 
-## Security Notes
-- Avoid hardcoding AWS Access Key and Secret Key in the Terraform file. Use environment variables or AWS Vault for better security.
-- Do not commit sensitive information (keys, secrets) to version control systems.
-
 ---
 
 ## Resources
@@ -126,14 +122,3 @@ After running the above commands, log in to the **destination AWS account** and 
 - [AWS EC2 Documentation](https://docs.aws.amazon.com/ec2/index.html)
 
 ---
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-```
-
-### How to Use
-- Copy the above content into a file named `README.md`.
-- Place it in the root of your repository.
-- Commit and push the changes to your Git repository.
-
-Let me know if you need further assistance!
